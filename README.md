@@ -11,4 +11,5 @@ This script won't tell you exact differences between folders but is handy for qu
 ### How to run
 
 You will need at least Python 3 installed. Run it from the command line with `python3 folder-comparer.py`
+
 When providing folder names, a forward slash at the start will most likely crash the program.
