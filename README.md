@@ -7,3 +7,8 @@ How it works:
 4. All information is output in output.txt
 
 This script won't tell you exact differences between folders but is handy for quickly checking for modified files.
+
+### How to run
+
+You will need at least Python 3 installed. Run it from the command line with `python3 folder-comparer.py`
+When providing folder names, a forward slash at the start will most likely crash the program.
